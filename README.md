@@ -11,7 +11,7 @@
 Microbial communities are commonly described through pairwise metabolic interactions, implicitly assuming that community-level behavior can be reconstructed from local measurements alone. This work extends a sheaf-theoretic framework from **detection** to **interpretation, localization, prediction, and experimental design** of higher-order metabolic obstructions — situations in which individually consistent pairwise interactions fail to assemble into a globally coherent community description.
 
 <p align="center">
-  <img src="figures/ima1.png" width="85%" alt="Conceptual overview: metabolic obstruction as non-zero curl"/>
+  <img src="ima1.png" width="85%" alt="Conceptual overview: metabolic obstruction as non-zero curl"/>
   <br/>
   <em>Fig. 1 — Conceptual overview. Panel A: a consistent pairwise landscape. Panel B: experimental reality — the cycle does not close. Panel C: hidden higher-order interactions generate the residual. Panel D: geometric view of metabolic obstruction as non-zero curl.</em>
 </p>
@@ -37,17 +37,17 @@ Microbial communities are commonly described through pairwise metabolic interact
 <table>
 <tr>
 <td align="center">
-<img src="figures/fig2_power_curve.png" width="95%"/><br/>
+<img src="fig2_power_curve.png" width="95%"/><br/>
 <b>Fig. 2</b> — Power curve for the harmonic energy test (<em>d</em> = 4, α = 0.05, <em>R</em> = 2000 replicates).
 </td>
 <td align="center">
-<img src="figures/fig3_coupling_decomposition.png" width="95%"/><br/>
+<img src="fig3_coupling_decomposition.png" width="95%"/><br/>
 <b>Fig. 3</b> — Künneth coupling decomposition validation. Recovered R̂ vs injected R<sub>target</sub>, showing E[R̂] = R + d<sub>r</sub>σ².
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-<img src="figures/fig4_interface_emergence.png" width="48%"/><br/>
+<img src="fig4_interface_emergence.png" width="48%"/><br/>
 <b>Fig. 4</b> — Interface emergence: harmonic energy statistics T<sub>Z₁</sub>, T<sub>Z₂</sub>, T<sub>Z₁∪Z₂</sub>, T<sub>interface</sub>. Neither regime alone is significant; the obstruction emerges from regime coexistence.
 </td>
 </tr>
@@ -68,11 +68,11 @@ Microbial communities are commonly described through pairwise metabolic interact
 </tr>
 <tr>
 <td align="center">
-<img src="figures/figS3_locoh_detection.png" width="95%"/><br/>
+<img src="figS3_locoh_detection.png" width="95%"/><br/>
 <b>Fig. S3</b> — Localized cohomology detection rates by regime.
 </td>
 <td align="center">
-<img src="figures/figS4_complex.png" width="95%"/><br/>
+<img src="figS4_complex.png" width="95%"/><br/>
 <b>Fig. S4</b> — Synthetic halophilic community simplicial complex. Edge colors encode the harmonic field h*ₑ.
 </td>
 </tr>
