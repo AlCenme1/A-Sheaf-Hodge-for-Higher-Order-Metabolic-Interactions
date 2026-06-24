@@ -205,5 +205,5 @@ Code released under the [MIT License](LICENSE). Figures and manuscript text © 2
 ---
 
 <p align="center">
-  <em>Universidad Católica del Maule · Doctorado en Modelamiento Matemático Aplicado · GEMAL</em>
+  <em>Universidad Católica del Maule · Doctorado en Modelamiento Matemático Aplicado · GEMA</em>
 </p>
