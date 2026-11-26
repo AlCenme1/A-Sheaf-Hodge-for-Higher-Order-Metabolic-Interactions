@@ -1,0 +1,9 @@
+# Tested with Python 3.12 and these versions
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.8
+cobra==0.32.1        # triad (iSRU780, iHQW-TK)
+highspy>=1.7         # community LPs and FVA (primal simplex)
+pandas>=2.0
+jupyter
+nbformat

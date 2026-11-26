@@ -1,0 +1,72 @@
+[
+ {
+  "org": "Chromohalobacter",
+  "rxns": 2861,
+  "mets": 1657,
+  "ext": 440,
+  "mu": 0.567
+ },
+ {
+  "org": "Haloarcula",
+  "rxns": 2028,
+  "mets": 1257,
+  "ext": 257,
+  "mu": 0.213
+ },
+ {
+  "org": "Halobacterium",
+  "rxns": 1617,
+  "mets": 1051,
+  "ext": 228,
+  "mu": 0.557
+ },
+ {
+  "org": "Haloferax",
+  "rxns": 2054,
+  "mets": 1249,
+  "ext": 278,
+  "mu": 0.211
+ },
+ {
+  "org": "Halomonas",
+  "rxns": 2902,
+  "mets": 1687,
+  "ext": 454,
+  "mu": 0.702
+ },
+ {
+  "org": "Haloquadratum",
+  "rxns": 1575,
+  "mets": 1026,
+  "ext": 213,
+  "mu": 0.2
+ },
+ {
+  "org": "Halorubrum",
+  "rxns": 1846,
+  "mets": 1151,
+  "ext": 248,
+  "mu": 0.206
+ },
+ {
+  "org": "Natronomonas",
+  "rxns": 1752,
+  "mets": 1153,
+  "ext": 230,
+  "mu": 0.107
+ },
+ {
+  "org": "Tetragenococcus",
+  "rxns": 1469,
+  "mets": 906,
+  "ext": 221,
+  "mu": 0.182
+ },
+ {
+  "org": "salinibacter",
+  "rxns": 2134,
+  "mets": 1299,
+  "ext": 268,
+  "mu": 0.702
+ }
+]

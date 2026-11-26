@@ -1,0 +1,246 @@
+[
+ {
+  "eps": 0.0,
+  "T": 72.02135889834727,
+  "d": 4240,
+  "p": 1.0,
+  "radius": 7.895761439940933,
+  "target_T": 0.06607467171899155,
+  "target_p": 0.9999999516566416,
+  "target_rank": 77,
+  "target_values": {
+   "Chromohalobacter+Haloquadratum": -4.85803,
+   "Chromohalobacter+Haloarcula+Haloquadratum": -3.09019,
+   "Chromohalobacter+Halobacterium+Haloquadratum": -3.00311,
+   "Chromohalobacter+Haloferax+Haloquadratum": -3.12068,
+   "Chromohalobacter+Halomonas+Haloquadratum": -3.16222,
+   "Chromohalobacter+Haloquadratum+Halorubrum": -3.25648,
+   "Chromohalobacter+Haloquadratum+Natronomonas": -4.35205,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": -3.4573,
+   "Chromohalobacter+Haloquadratum+salinibacter": -4.18937
+  },
+  "target_sigma": {
+   "Chromohalobacter+Haloquadratum": 7.90484,
+   "Chromohalobacter+Haloarcula+Haloquadratum": 9.62138,
+   "Chromohalobacter+Halobacterium+Haloquadratum": 6.37062,
+   "Chromohalobacter+Haloferax+Haloquadratum": 7.96234,
+   "Chromohalobacter+Halomonas+Haloquadratum": 7.63562,
+   "Chromohalobacter+Haloquadratum+Halorubrum": 8.20513,
+   "Chromohalobacter+Haloquadratum+Natronomonas": 6.4841,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": 6.45324,
+   "Chromohalobacter+Haloquadratum+salinibacter": 7.1745
+  },
+  "top": [
+   [
+    "Natronomonas|salinibacter|M_arg__L_e",
+    6.79,
+    5.2594
+   ],
+   [
+    "Tetragenococcus|salinibacter|M_ac_e",
+    6.55,
+    7.8958
+   ],
+   [
+    "Natronomonas|salinibacter|M_orn_e",
+    5.07,
+    5.3546
+   ],
+   [
+    "Natronomonas|salinibacter|M_gal_e",
+    4.83,
+    3.3694
+   ],
+   [
+    "Halorubrum|Natronomonas|M_quin_e",
+    4.18,
+    1.0568
+   ]
+  ],
+  "dropped": [],
+  "secs": 0.07674765586853027
+ },
+ {
+  "eps": 1.0,
+  "T": 72.01598446758769,
+  "d": 4264,
+  "p": 1.0,
+  "radius": 7.895761439940933,
+  "target_T": 0.08095413041490772,
+  "target_p": 0.999999891714287,
+  "target_rank": 69,
+  "target_values": {
+   "Chromohalobacter+Haloquadratum": -4.85803,
+   "Chromohalobacter+Haloarcula+Haloquadratum": -3.09019,
+   "Chromohalobacter+Halobacterium+Haloquadratum": -2.74681,
+   "Chromohalobacter+Haloferax+Haloquadratum": -3.12068,
+   "Chromohalobacter+Halomonas+Haloquadratum": -3.16222,
+   "Chromohalobacter+Haloquadratum+Halorubrum": -3.25648,
+   "Chromohalobacter+Haloquadratum+Natronomonas": -4.35205,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": -3.4573,
+   "Chromohalobacter+Haloquadratum+salinibacter": -4.18937
+  },
+  "target_sigma": {
+   "Chromohalobacter+Haloquadratum": 7.90484,
+   "Chromohalobacter+Haloarcula+Haloquadratum": 9.62138,
+   "Chromohalobacter+Halobacterium+Haloquadratum": 5.53158,
+   "Chromohalobacter+Haloferax+Haloquadratum": 7.96234,
+   "Chromohalobacter+Halomonas+Haloquadratum": 7.63562,
+   "Chromohalobacter+Haloquadratum+Halorubrum": 8.20513,
+   "Chromohalobacter+Haloquadratum+Natronomonas": 6.4841,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": 6.45324,
+   "Chromohalobacter+Haloquadratum+salinibacter": 7.1745
+  },
+  "top": [
+   [
+    "Natronomonas|salinibacter|M_arg__L_e",
+    6.79,
+    5.2594
+   ],
+   [
+    "Tetragenococcus|salinibacter|M_ac_e",
+    6.55,
+    7.8958
+   ],
+   [
+    "Natronomonas|salinibacter|M_orn_e",
+    5.07,
+    5.3546
+   ],
+   [
+    "Natronomonas|salinibacter|M_gal_e",
+    4.83,
+    3.3694
+   ],
+   [
+    "Halorubrum|Natronomonas|M_quin_e",
+    4.18,
+    1.0568
+   ]
+  ],
+  "dropped": [],
+  "secs": 89.55305361747742
+ },
+ {
+  "eps": 3.0,
+  "T": 74.47038733973277,
+  "d": 4256,
+  "p": 1.0,
+  "radius": 7.895761439940933,
+  "target_T": 0.3247192556190583,
+  "target_p": 0.9999745641942096,
+  "target_rank": 40,
+  "target_values": {
+   "Chromohalobacter+Haloquadratum": -4.85803,
+   "Chromohalobacter+Haloarcula+Haloquadratum": -3.09019,
+   "Chromohalobacter+Halobacterium+Haloquadratum": -1.42366,
+   "Chromohalobacter+Haloferax+Haloquadratum": -3.12068,
+   "Chromohalobacter+Halomonas+Haloquadratum": -3.16222,
+   "Chromohalobacter+Haloquadratum+Halorubrum": -3.25648,
+   "Chromohalobacter+Haloquadratum+Natronomonas": -4.35205,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": -3.4573,
+   "Chromohalobacter+Haloquadratum+salinibacter": -4.18937
+  },
+  "target_sigma": {
+   "Chromohalobacter+Haloquadratum": 7.90484,
+   "Chromohalobacter+Haloarcula+Haloquadratum": 9.62138,
+   "Chromohalobacter+Halobacterium+Haloquadratum": 3.58758,
+   "Chromohalobacter+Haloferax+Haloquadratum": 7.96234,
+   "Chromohalobacter+Halomonas+Haloquadratum": 7.63562,
+   "Chromohalobacter+Haloquadratum+Halorubrum": 8.20513,
+   "Chromohalobacter+Haloquadratum+Natronomonas": 6.4841,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": 6.45324,
+   "Chromohalobacter+Haloquadratum+salinibacter": 7.1745
+  },
+  "top": [
+   [
+    "Natronomonas|salinibacter|M_arg__L_e",
+    6.79,
+    5.2594
+   ],
+   [
+    "Tetragenococcus|salinibacter|M_ac_e",
+    6.55,
+    7.8958
+   ],
+   [
+    "Natronomonas|salinibacter|M_orn_e",
+    5.07,
+    5.3546
+   ],
+   [
+    "Natronomonas|salinibacter|M_gal_e",
+    4.83,
+    3.3694
+   ],
+   [
+    "Halorubrum|Natronomonas|M_quin_e",
+    4.18,
+    1.0568
+   ]
+  ],
+  "dropped": [],
+  "secs": 94.67267870903015
+ },
+ {
+  "eps": 10.0,
+  "T": 128.2741765756805,
+  "d": 4184,
+  "p": 1.0,
+  "radius": 10.0,
+  "target_T": 0.25025525479790456,
+  "target_p": 0.9999907568687433,
+  "target_rank": 50,
+  "target_values": {
+   "Chromohalobacter+Haloquadratum": -4.85803,
+   "Chromohalobacter+Haloarcula+Haloquadratum": -3.09019,
+   "Chromohalobacter+Halobacterium+Haloquadratum": 0.0,
+   "Chromohalobacter+Haloferax+Haloquadratum": -3.12068,
+   "Chromohalobacter+Halomonas+Haloquadratum": -3.16222,
+   "Chromohalobacter+Haloquadratum+Halorubrum": -3.25648,
+   "Chromohalobacter+Haloquadratum+Natronomonas": -4.35205,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": -3.4573,
+   "Chromohalobacter+Haloquadratum+salinibacter": -4.18937
+  },
+  "target_sigma": {
+   "Chromohalobacter+Haloquadratum": 7.90484,
+   "Chromohalobacter+Haloarcula+Haloquadratum": 9.62138,
+   "Chromohalobacter+Halobacterium+Haloquadratum": 8.03517,
+   "Chromohalobacter+Haloferax+Haloquadratum": 7.96234,
+   "Chromohalobacter+Halomonas+Haloquadratum": 7.63562,
+   "Chromohalobacter+Haloquadratum+Halorubrum": 8.20513,
+   "Chromohalobacter+Haloquadratum+Natronomonas": 6.4841,
+   "Chromohalobacter+Haloquadratum+Tetragenococcus": 6.45324,
+   "Chromohalobacter+Haloquadratum+salinibacter": 7.1745
+  },
+  "top": [
+   [
+    "Halobacterium|Natronomonas|M_quin_e",
+    20.26,
+    2.2339
+   ],
+   [
+    "Halobacterium|Haloquadratum|M_lac__L_e",
+    11.97,
+    10.0
+   ],
+   [
+    "Halobacterium|Tetragenococcus|M_nac_e",
+    9.1,
+    1.8357
+   ],
+   [
+    "Natronomonas|salinibacter|M_arg__L_e",
+    6.79,
+    5.2594
+   ],
+   [
+    "Tetragenococcus|salinibacter|M_ac_e",
+    6.55,
+    7.8958
+   ]
+  ],
+  "dropped": [],
+  "secs": 339.8435757160187
+ }
+]

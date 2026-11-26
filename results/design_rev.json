@@ -1,0 +1,148 @@
+{
+ "greedy_reg": [
+  129.2277230975907,
+  115.89693695025358,
+  72
+ ],
+ "greedy_pdet": [
+  129.2277230975907,
+  115.89693695025358,
+  72
+ ],
+ "heuristic": [
+  122.85825300524522,
+  106.75649579907518,
+  72
+ ],
+ "random_reg_mean": 103.9404112657796,
+ "random_reg_sd": 2.0041750337663347,
+ "random_pdet_mean": 83.74733325755571,
+ "random_pdet_sd": 2.5517994836468083,
+ "frac_random_ge_greedy_reg": 0.0,
+ "frac_random_ge_heur_reg": 0.0,
+ "frac_random_ge_greedy_pdet": 0.0,
+ "frac_random_ge_heur_pdet": 0.0,
+ "greedy_reg_triads": [
+  [
+   "Chromohalobacter",
+   "Haloarcula",
+   "Halobacterium"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloarcula",
+   "Haloferax"
+  ],
+  [
+   "Haloarcula",
+   "Halobacterium",
+   "Haloferax"
+  ],
+  [
+   "Chromohalobacter",
+   "Halobacterium",
+   "Haloferax"
+  ],
+  [
+   "Haloarcula",
+   "Haloferax",
+   "Halomonas"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloarcula",
+   "Halomonas"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloferax",
+   "Halomonas"
+  ],
+  [
+   "Chromohalobacter",
+   "Halobacterium",
+   "Halomonas"
+  ],
+  [
+   "Haloarcula",
+   "Halobacterium",
+   "Halomonas"
+  ],
+  [
+   "Halobacterium",
+   "Haloferax",
+   "Halomonas"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloarcula",
+   "Haloquadratum"
+  ],
+  [
+   "Haloarcula",
+   "Haloferax",
+   "Haloquadratum"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloferax",
+   "Haloquadratum"
+  ],
+  [
+   "Chromohalobacter",
+   "Halobacterium",
+   "Haloquadratum"
+  ],
+  [
+   "Haloarcula",
+   "Halobacterium",
+   "Haloquadratum"
+  ],
+  [
+   "Halobacterium",
+   "Haloferax",
+   "Haloquadratum"
+  ],
+  [
+   "Haloarcula",
+   "Halomonas",
+   "Haloquadratum"
+  ],
+  [
+   "Chromohalobacter",
+   "Halomonas",
+   "Haloquadratum"
+  ],
+  [
+   "Halobacterium",
+   "Halomonas",
+   "Haloquadratum"
+  ],
+  [
+   "Haloferax",
+   "Halomonas",
+   "Haloquadratum"
+  ],
+  [
+   "Chromohalobacter",
+   "Halobacterium",
+   "Halorubrum"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloferax",
+   "Halorubrum"
+  ],
+  [
+   "Halobacterium",
+   "Haloferax",
+   "Halorubrum"
+  ],
+  [
+   "Chromohalobacter",
+   "Haloarcula",
+   "Halorubrum"
+  ]
+ ],
+ "secs": 7.014525890350342
+}
